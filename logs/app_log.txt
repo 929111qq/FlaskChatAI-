@@ -1,0 +1,27 @@
+[2025-07-18 11:23:56,627] [INFO] /data/wangwd/code/AI_Server_1.1/app.py:54 - 日志系统初始化完成
+[2025-07-18 11:23:56,638] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/werkzeug/_internal.py:97 -  * Restarting with stat
+[2025-07-18 11:23:57,535] [INFO] /data/wangwd/code/AI_Server_1.1/app.py:54 - 日志系统初始化完成
+[2025-07-18 11:23:57,546] [WARNING] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/werkzeug/_internal.py:97 -  * Debugger is active!
+[2025-07-18 11:23:57,547] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/werkzeug/_internal.py:97 -  * Debugger PIN: 493-818-567
+[2025-07-18 11:26:07,058] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.416547 seconds
+[2025-07-18 11:26:22,484] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.970051 seconds
+[2025-07-18 11:26:34,329] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.402602 seconds
+[2025-07-18 11:26:38,464] [ERROR] /data/wangwd/code/AI_Server_1.1/utils/ai_handlers.py:41 - 千帆API调用失败: Request timed out.
+[2025-07-18 11:26:49,741] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.972628 seconds
+[2025-07-18 11:27:05,726] [ERROR] /data/wangwd/code/AI_Server_1.1/utils/ai_handlers.py:41 - 千帆API调用失败: Request timed out.
+[2025-07-18 11:31:58,641] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.377311 seconds
+[2025-07-18 11:32:14,027] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.785567 seconds
+[2025-07-18 11:32:29,836] [ERROR] /data/wangwd/code/AI_Server_1.1/utils/ai_handlers.py:41 - 千帆API调用失败: Request timed out.
+[2025-07-18 11:35:22,598] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.437151 seconds
+[2025-07-18 11:35:45,656] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/httpx/_client.py:1025 - HTTP Request: POST https://qianfan.baidubce.com/v2/chat/completions "HTTP/1.1 200 OK"
+[2025-07-18 11:35:48,816] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/httpx/_client.py:1025 - HTTP Request: POST https://qianfan.baidubce.com/v2/chat/completions "HTTP/1.1 200 OK"
+[2025-07-18 11:36:03,699] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/httpx/_client.py:1025 - HTTP Request: POST https://qianfan.baidubce.com/v2/chat/completions "HTTP/1.1 200 OK"
+[2025-07-18 11:36:10,652] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/httpx/_client.py:1025 - HTTP Request: POST https://qianfan.baidubce.com/v2/chat/completions "HTTP/1.1 200 OK"
+[2025-07-18 11:37:42,292] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/httpx/_client.py:1025 - HTTP Request: POST https://qianfan.baidubce.com/v2/chat/completions "HTTP/1.1 200 OK"
+[2025-07-18 11:37:56,705] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/httpx/_client.py:1025 - HTTP Request: POST https://qianfan.baidubce.com/v2/chat/completions "HTTP/1.1 200 OK"
+[2025-07-18 11:39:53,719] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.389318 seconds
+[2025-07-18 11:40:09,119] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.987316 seconds
+[2025-07-18 11:40:12,464] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.383196 seconds
+[2025-07-18 11:40:25,127] [ERROR] /data/wangwd/code/AI_Server_1.1/utils/ai_handlers.py:41 - 千帆API调用失败: Request timed out.
+[2025-07-18 11:40:27,858] [INFO] /data/wangwd/anaconda3/envs/chat_server/lib/python3.10/site-packages/openai/_base_client.py:1068 - Retrying request to /chat/completions in 0.981176 seconds
+[2025-07-18 11:40:43,849] [ERROR] /data/wangwd/code/AI_Server_1.1/utils/ai_handlers.py:41 - 千帆API调用失败: Request timed out.

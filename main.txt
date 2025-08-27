@@ -1,0 +1,30 @@
+ai_chat_server/
+├── app.py                # Flask主应用
+├── config.py             # 配置文件（如数据库配置、API密钥等）
+├── requirements.txt      # Python依赖清单（如Flask、SQLAlchemy等）
+├── database.db           # SQLite数据库文件（存储用户、聊天记录等数据）
+├── run.sh                # 项目启动脚本（如启动Flask服务的命令）
+├── models/               # 数据模型目录（定义数据库表结构）
+│   ├── __init__.py       # 标识为Python包
+│   ├── user.py           # 用户模型（用户名、密码、权限等字段定义）
+│   └── chat.py           # 聊天记录模型（消息内容、发送者、时间等字段定义）
+├── api/                  # API接口目录（处理各类请求）
+│   ├── __init__.py       # 标识为Python包
+│   ├── auth.py           # 认证相关API（登录、注册、权限验证等）
+│   ├── chat.py           # 聊天相关API（发送消息、获取历史记录等）
+│   └── ai.py             # AI处理相关API（调用AI模型、处理回复等）
+├── static/               # 静态资源目录（前端样式、脚本、上传文件等）
+│   ├── css/
+│   │   └── style.css     # 前端样式文件（页面布局、元素样式等）
+│   ├── js/
+│   │   └── app.js        # 前端JavaScript（交互逻辑、API调用等）
+│   └── uploads/          # 文件上传目录（用户上传的图片、文件等）
+├── templates/            # 模板文件目录（前端HTML页面）
+│   ├── index.html        # 主页面（项目入口页）
+│   ├── login.html        # 登录页面（用户登录表单）
+│   └── chat.html         # 聊天界面（消息展示、输入框等）
+├── utils/                # 工具函数目录（通用功能封装）
+│   ├── __init__.py       # 标识为Python包
+│   ├── database.py       # 数据库工具（连接、查询、事务处理等）
+│   └── ai_handler.py     # AI处理工具（模型加载、请求处理、结果解析等）
+└── logs/                 # 日志目录（系统运行日志、错误日志等）

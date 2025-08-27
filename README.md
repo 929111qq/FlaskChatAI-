@@ -31,8 +31,7 @@ bash run.sh
 - **AI不可用**：请配置有效的OPENAI_API_KEY。
 - **依赖缺失**：请确保已执行 `pip install -r requirements.txt`。
 
-## 7. 其他
-
+## 6. 其他
 - 支持WebSocket实时聊天（需前端配合）。
 - 支持自定义会话反馈、主题、上下文。
 - 可扩展接入其他AI大模型。
